@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "530095138018",
+    "project_id": "fir-fluxstore-manager",
+    "storage_bucket": "fir-fluxstore-manager.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:530095138018:android:9da163c394e85bf6bdeabb",
+        "android_client_info": {
+          "package_name": "com.fusiongate.fluxstore_manager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "530095138018-m6ou9t5sio6imtjdi8om1cajtjmut7fb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fusiongate.fluxstore_manager",
+            "certificate_hash": "d087f0616fb1139bc19edc18f549f3dd3a1c1eb1"
+          }
+        },
+        {
+          "client_id": "530095138018-mbkhjvo8fn2uvu8hnsftkuk61ssqfmaj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxJbW6Dq87ykfX6lQW5E8hNkNJiD15g4c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "530095138018-mbkhjvo8fn2uvu8hnsftkuk61ssqfmaj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
