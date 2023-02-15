@@ -8,6 +8,7 @@ Map<String, dynamic> environment = {
     'url': 'http://ec2-35-75-164-171.ap-northeast-1.compute.amazonaws.com',
     'consumerKey': 'ck_116442e126c714198b5fc20309240076a627100b',
     'consumerSecret': 'cs_5a432cff8603dd6120446eec721cfe53fab37a50',
+    // vendorAdmin
     'type': 'woo',
     'platform': 'woo',
 
@@ -1137,32 +1138,32 @@ Map<String, dynamic> environment = {
       "https://trello.com/1/cards/611a38c89ebde41ec7cf10e2/attachments/611a392cceb1b534aa92a83e/previews/611a392dceb1b534aa92a84d/download",
       "description": "Realtime Chat",
     },
-    {
-      "app": "https://wa.me/849908854",
-      "iconData": "whatsapp",
-      "description": "WhatsApp"
-    },
+    // {
+    //   "app": "https://wa.me/849908854",
+    //   "iconData": "whatsapp",
+    //   "description": "WhatsApp"
+    // },
     {"app": "tel:8499999999", "iconData": "phone", "description": "Call Us"},
-    {"app": "sms://8499999999", "iconData": "sms", "description": "Send SMS"},
-    {
-      "app": "https://tawk.to/chat/5d830419c22bdd393bb69888/default",
-      "iconData": "whatsapp",
-      "description": "Tawk Chat"
-    },
-    {
-      "app": "http://m.me/inspireui",
-      "iconData": "facebookMessenger",
-      "description": "Facebook Chat"
-    },
-    {
-      "app":
-      "https://twitter.com/messages/compose?recipient_id=821597032011931648",
-      "imageData":
-      "https://trello.com/1/cards/611a38c89ebde41ec7cf10e2/attachments/611a38d026894f10dc1091c8/previews/611a38d126894f10dc1091d6/download",
-      "description": "Twitter Chat"
-    }
+    {"app": "sms://8499999999", "iconData": "sms", "description": "Send SMS"}
+    // {
+    //   "app": "https://tawk.to/chat/5d830419c22bdd393bb69888/default",
+    //   "iconData": "whatsapp",
+    //   "description": "Tawk Chat"
+    // },
+    // {
+    //   "app": "http://m.me/inspireui",
+    //   "iconData": "facebookMessenger",
+    //   "description": "Facebook Chat"
+    // },
+    // {
+    //   "app":
+    //   "https://twitter.com/messages/compose?recipient_id=821597032011931648",
+    //   "imageData":
+    //   "https://trello.com/1/cards/611a38c89ebde41ec7cf10e2/attachments/611a38d026894f10dc1091c8/previews/611a38d126894f10dc1091d6/download",
+    //   "description": "Twitter Chat"
+    // }
   ],
-  "adminEmail": "wenweibo123@gmail.com",
+  "adminEmail": "714678701@qq.com",
   "adminName": "weibo wen",
 
   /// ➡️ lib/common/vendor.dart
