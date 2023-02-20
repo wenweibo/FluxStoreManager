@@ -1,10 +1,55 @@
 {
   "project_info": {
     "project_number": "530095138018",
+    "firebase_url": "https://fir-fluxstore-manager-default-rtdb.asia-southeast1.firebasedatabase.app",
     "project_id": "fir-fluxstore-manager",
     "storage_bucket": "fir-fluxstore-manager.appspot.com"
   },
   "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:530095138018:android:7108fa6bef0909aebdeabb",
+        "android_client_info": {
+          "package_name": "com.fusiongate.fluxstoreManager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "530095138018-aqnna23eo71culk3t9kvk66ljsj9d1qa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fusiongate.fluxstoreManager",
+            "certificate_hash": "d087f0616fb1139bc19edc18f549f3dd3a1c1eb1"
+          }
+        },
+        {
+          "client_id": "530095138018-5je1f61ok7cur18i6nhq1obtqvbhvgud.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxJbW6Dq87ykfX6lQW5E8hNkNJiD15g4c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "530095138018-5je1f61ok7cur18i6nhq1obtqvbhvgud.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "530095138018-sq4020s3io22jkgto75mvj9bhi0nqie4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.fusiongate.fluxstoreManager"
+              }
+            }
+          ]
+        }
+      }
+    },
     {
       "client_info": {
         "mobilesdk_app_id": "1:530095138018:android:9da163c394e85bf6bdeabb",
@@ -22,7 +67,7 @@
           }
         },
         {
-          "client_id": "530095138018-mbkhjvo8fn2uvu8hnsftkuk61ssqfmaj.apps.googleusercontent.com",
+          "client_id": "530095138018-5je1f61ok7cur18i6nhq1obtqvbhvgud.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
@@ -35,8 +80,15 @@
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "530095138018-mbkhjvo8fn2uvu8hnsftkuk61ssqfmaj.apps.googleusercontent.com",
+              "client_id": "530095138018-5je1f61ok7cur18i6nhq1obtqvbhvgud.apps.googleusercontent.com",
               "client_type": 3
+            },
+            {
+              "client_id": "530095138018-sq4020s3io22jkgto75mvj9bhi0nqie4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.fusiongate.fluxstoreManager"
+              }
             }
           ]
         }
