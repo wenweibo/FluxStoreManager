@@ -4,7 +4,7 @@ Map<String, dynamic> environment = {
   "serverConfig": {
     /// 🌍 The register URL domain that matches with Envato Purchase Code
     /// 🔑 Also, make sure to update the envatoPurchaseCode from configs/env.properties
-    'url': 'http://ec2-35-75-164-171.ap-northeast-1.compute.amazonaws.com',
+    'url': 'https://store.fusiongate.world',
     'consumerKey': 'ck_116442e126c714198b5fc20309240076a627100b',
     'consumerSecret': 'cs_5a432cff8603dd6120446eec721cfe53fab37a50',
     // vendorAdmin
