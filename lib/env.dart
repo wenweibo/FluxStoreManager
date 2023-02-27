@@ -12,7 +12,7 @@ Map<String, dynamic> environment = {
     'platform': 'woo',
 
     /// Wordpress blog, it could be removed if using the same above url
-    'blog': 'https://mstore.io',
+    'blog': 'https://store.fusiongate.world',
 
     /// remove to use as native screen
     'forgetPassword': 'https://mstore.io/wp-login.php?action=lostpassword'
@@ -178,11 +178,11 @@ Map<String, dynamic> environment = {
     "AlwaysShowTabBar": false,
 
     /// Privacy Policies page ID. Accessible in the app via Settings > Privacy menu.
-    "PrivacyPoliciesPageId": 25569,
+    "PrivacyPoliciesPageId": 3,
 
     /// If page id null
     /// Privacy Policies page Url. Accessible in the app via Settings > Privacy menu.
-    "PrivacyPoliciesPageUrl": "https://inspireui.com/privacy-policy/",
+    "PrivacyPoliciesPageUrl": "https://store.fusiongate.world/privacy-policy/",
 
     "SupportPageUrl": "https://support.inspireui.com/",
 
@@ -335,20 +335,20 @@ Map<String, dynamic> environment = {
   /// ➡️ lib/common/onboarding.dart
   "onBoardingData": [
     {
-      'title': 'Welcome to FluxStore',
+      'title': 'FusionShopへようこそ',
       'image': 'assets/images/fogg-delivery-1.png',
-      'desc': 'Fluxstore is on the way to serve you. '
+      'desc': 'あなたのご要望に応えるために '
     },
     {
-      'title': 'Connect Surrounding World',
+      'title': '世界とつながる',
       'image': 'assets/images/fogg-uploading-1.png',
       'desc':
-      'See all things happening around you just by a click in your phone. Fast, convenient and clean.'
+      'たったワンクリックで周りの変更を把握する。 素早く、便利に、簡潔に。'
     },
     {
-      'title': "Let's Get Started",
+      'title': "始めましょう！",
       'image': 'assets/images/fogg-order-completed.png',
-      'desc': "Waiting no more, let's see what we get!"
+      'desc': "待たなし！早速使ってみましょう！"
     }
   ],
 
@@ -1226,11 +1226,11 @@ Map<String, dynamic> environment = {
     "enable": true,
 
     /// duration in milliseconds, used for all types except "rive" and "flare"
-    "duration": 2000,
+    "duration": 3000,
 
     ///  Type should be: 'fade-in', 'zoom-in', 'zoom-out', 'top-down', 'rive', 'flare', ''static'
-    "type": "flare",
-    "image": "assets/images/splashscreen.flr",
+    "type": "zoom-in",
+    "image": "assets/images/splashscreen.png",
 
     /// AnimationName's is used for 'rive' and 'flare' type
     "animationName": "fluxstore",
